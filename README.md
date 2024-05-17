@@ -9,9 +9,10 @@ npm run dev
 # or
 yarn dev
 
+```
+
 ## BASICS INFORMATIONS
 
 ### PACKAGES:
 
-  <a href='https://ui.shadcn.com/docs/installation/next'> Shadcn/UI</a>
-```
+<a href='https://ui.shadcn.com/docs/installation/next'> Shadcn/UI</a>
