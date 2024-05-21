@@ -28,6 +28,8 @@ Clerk: https://dub.sh/SdVFxFU
 
 Learn how to add advanced authentication to your NextJS App.
 
+- Server Actions
+
 ### Key Features:
 
 - 🔐 Next-auth v5 (Auth.js)
