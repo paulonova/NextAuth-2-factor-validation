@@ -13,6 +13,8 @@ yarn dev
 
 ## BASICS INFORMATIONS
 
+<a href="https://youtu.be/1MTyCvS05V4?si=cFUXA6nOxaB6ie9m">LINK</a>
+
 ### PACKAGES:
 
 <a href='https://ui.shadcn.com/docs/installation/next'> Shadcn/UI</a>
