@@ -64,3 +64,23 @@ Learn how to add advanced authentication to your NextJS App.
 - 🔑 Change password with old password confirmation in Settings page
 - 🔔 Enable/disable two-factor auth in Settings page
 - 🔄 Change user role in Settings page (for development purposes only)
+
+## DEPENDENCIES:
+
+### PRISMA
+
+Link: <a href="https://www.prisma.io/docs/getting-started"> PRISMA </a>
+
+```
+yarn add -D prisma
+```
+
+```
+yarn add @prisma/client
+```
+
+```
+yarn prisma init
+```
+
+- Go to https://console.neon.tech/app/projects/weathered-grass-17092104/quickstart
