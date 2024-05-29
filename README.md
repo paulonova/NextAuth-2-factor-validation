@@ -13,6 +13,8 @@ yarn dev
 
 ## BASICS INFORMATIONS
 
+<a href="https://www.youtube.com/watch?v=1MTyCvS05V4&ab_channel=CodeWithAntonio">NextAuth V5</a>
+
 <a href="https://youtu.be/1MTyCvS05V4?si=cFUXA6nOxaB6ie9m">LINK</a>
 
 ### PACKAGES:
@@ -84,3 +86,27 @@ yarn prisma init
 ```
 
 - Go to https://console.neon.tech/app/projects/weathered-grass-17092104/quickstart
+
+```
+yarn prisma generate
+```
+
+```
+yarn prisma db push
+```
+
+## Next Auth js
+
+Link: <a href="https://next-auth.js.org/getting-started/example">NextAuthJs</a>
+
+Link: <a href="https://authjs.dev/getting-started/adapters/prisma?_gl=1*9xzmmg*_gcl_au*MTgxNjg1MDM5OS4xNzE2OTcwNjc2">Prisma Adapter </a>
+
+run:
+
+```
+yarn prisma generate
+```
+
+```
+yarn prisma db push
+```
