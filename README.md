@@ -110,3 +110,13 @@ yarn prisma generate
 ```
 yarn prisma db push
 ```
+
+## Password Cryptography
+
+```
+yarn add bcrypt
+```
+
+```
+yarn add -D @types/bcrypt
+```
