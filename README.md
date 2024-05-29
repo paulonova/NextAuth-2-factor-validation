@@ -120,3 +120,15 @@ yarn add bcrypt
 ```
 yarn add -D @types/bcrypt
 ```
+
+## ISUES
+
+- Got some problems when I create a user and the solution was:
+
+* Add this package in package.json
+
+```
+"string-width": "4.2.3"
+```
+
+- Then Remove node_modules folder and yarn.lock package.lock files. Run yarn install.
