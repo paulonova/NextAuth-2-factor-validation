@@ -131,4 +131,6 @@ yarn add -D @types/bcrypt
 "string-width": "4.2.3"
 ```
 
-- Then Remove node_modules folder and yarn.lock package.lock files. Run yarn install.
+- Or install the bcryptjs package
+
+* Then Remove node_modules folder and yarn.lock package.lock files. Run yarn install.

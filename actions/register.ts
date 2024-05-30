@@ -4,6 +4,7 @@ import { z } from 'zod'
 import bcrypt from 'bcrypt'
 import { db } from '@/lib/db'
 import { RegisterSchema } from '@/schemas'
+import { getUserByEmail } from '@/data/user'
 
 // SERVER ACTIONS
 export const register = async (values: z.infer<typeof RegisterSchema>) => {
