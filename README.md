@@ -111,6 +111,10 @@ yarn prisma generate
 yarn prisma db push
 ```
 
+```
+npx prisma studio
+```
+
 ## Password Cryptography
 
 ```
