@@ -95,6 +95,12 @@ yarn prisma generate
 yarn prisma db push
 ```
 
+- This command will reset the entire database. after that I need to run yarn prisma db push to restore the tables.
+
+```
+npx prisma migrate reset
+```
+
 ## Next Auth js
 
 Link: <a href="https://next-auth.js.org/getting-started/example">NextAuthJs</a>

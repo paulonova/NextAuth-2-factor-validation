@@ -2,6 +2,8 @@ import { auth, signOut } from '@/auth'
 
 const SettingsPage = async () => {
   const session = await auth()
+  session?.user.role
+
   return (
     <div>
       <h1>{JSON.stringify(session)}</h1>
