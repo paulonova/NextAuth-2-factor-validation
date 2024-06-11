@@ -42,3 +42,15 @@ model Account {
  
   @@unique([provider, providerAccountId])
 }
+
+model VerificationToken{
+  id        String @id @default(cuid())
+  email     String
+  token     String @unique
+  expires   DateTime
+  
+  @@unique([email, token])
+}
+
+
+// After create a model, I need to run yarn prisma generate and yarn prisma db push to update the database schema.

@@ -144,3 +144,15 @@ yarn add -D @types/bcrypt
 - Or install the bcryptjs package
 
 * Then Remove node_modules folder and yarn.lock package.lock files. Run yarn install.
+
+## Resend Email Sender
+
+<a href="https://resend.com/onboarding">Resender</a>
+
+<a href="https://resend.com/docs/send-with-nodejs">Resender DOCs</a>
+
+- Install in the application
+
+##
+
+- Stopped at 4:17:00
